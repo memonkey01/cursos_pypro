@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.pypro.mx/app/inicio/">
     <img src="0_assets/pypro_logo.png" alt="Logo" width="220" height="80">
   </a>
 
@@ -45,6 +45,10 @@
     ·
     <a href="https://www.linkedin.com/in/guillermo-izquierdo-colin-09586a49/">LinkedIn</a>
   </p>
+
+  <a href="https://www.buymeacoffee.com/pypro">
+    <img src="0_assets/bmc-button.png" alt="Logo" width="180" height="55">
+  </a>
 </div>
 
 
