@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/0_documentos/gits/cursos_pypro/Tutorial Manin/media/videos/test_equation/1080p60/partial_movie_files/displayEquations/3529212410_3462320124_223132457.mp4'
+file 'file:C:/0_documentos/gits/cursos_pypro/Tutorial Manin/media/videos/test_equation/1080p60/partial_movie_files/displayEquations/3040924799_1141282389_3325598078.mp4'
+file 'file:C:/0_documentos/gits/cursos_pypro/Tutorial Manin/media/videos/test_equation/1080p60/partial_movie_files/displayEquations/3040924799_1576746696_3201580670.mp4'
+file 'file:C:/0_documentos/gits/cursos_pypro/Tutorial Manin/media/videos/test_equation/1080p60/partial_movie_files/displayEquations/3040924799_2475379470_2655520445.mp4'
+file 'file:C:/0_documentos/gits/cursos_pypro/Tutorial Manin/media/videos/test_equation/1080p60/partial_movie_files/displayEquations/3040924799_756743850_2650360848.mp4'
+file 'file:C:/0_documentos/gits/cursos_pypro/Tutorial Manin/media/videos/test_equation/1080p60/partial_movie_files/displayEquations/3040924799_2475379470_936851196.mp4'

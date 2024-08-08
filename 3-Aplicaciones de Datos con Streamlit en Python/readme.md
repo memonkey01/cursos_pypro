@@ -1,0 +1,1 @@
+conda activate curso_streamlit_pypro
